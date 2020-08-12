@@ -13,11 +13,11 @@ In the case where more than one member of the initialization array matches the k
 ## Commands
 **Run Test Cases:**
 ```
-python3 -m unittest string_finder.py
+python -m unittest string_finder.py
 ```
 **Run Programe:**
 ```
-python3 string_finder.py
+python string_finder.py
 ```
 ## Demo
 
