@@ -1,5 +1,4 @@
-# string-finder
-String Finder
+# String Finder
 
 ## Description
 
@@ -24,10 +23,16 @@ python string_finder.py
 
 ```
 ----------String Finder------------
+
+Enter Q to quit.
+
 Input:
 	Enter array of strings> ['asd', 'asdd', 'fre']
 	Enter string> sad
 
- Output: ['asd']
+Output> ['asd']
 
-Enter Q to quit.
+Input:
+	Enter array of strings> Q
+Quit
+```
